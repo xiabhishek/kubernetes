@@ -1,0 +1,6 @@
+resources:
+- name.yaml
+- deployment.yaml
+- service.yaml
+- hpa.yml
+
